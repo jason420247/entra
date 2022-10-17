@@ -1,1 +1,1 @@
-## Microsoft Entra Veridied ID
+## Microsoft Entra Verified ID
