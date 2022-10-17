@@ -1,28 +1,28 @@
-# Project
+![Category overview](docs/images/entra_hero.png "Microsoft Entra")
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+# Security is complex. We can help you simplify it.
 
-As the maintainer of this project, please make a few updates:
+This repository contains documentation, samples and Software Developer Kits (SDKs) supporting the [Microsoft Entra](http://aka.ms/entra) product family. You can use to learn, understand and leverage the following products:
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+* [Verified ID](https://github.com/microsoft/entra/VerifiedID/README.md "Microsoft Entra Verified ID") 
 
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+There are many ways in which you can participate in this project, for example:
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+* [Submit bugs and feature requests](https://github.com/microsoft/entra/issues), and help us verify as they are checked in
+* Review the [documentation](https://github.com/microsoft/entra/docs) and make pull requests for anything from typos to additional and new content
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## Feedback
+
+* Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/vscode)
+* [Request a new feature](CONTRIBUTING.md)
+* Upvote [popular feature requests](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+* [File an issue](https://github.com/microsoft/vscode/issues)
+* Connect with the extension author community on [GitHub Discussions](https://github.com/microsoft/vscode-discussions/discussions) or [Slack](https://aka.ms/vscode-dev-community)
+* Follow [@code](https://twitter.com/code) and let us know what you think!
+
+See our [wiki](https://github.com/microsoft/vscode/wiki/Feedback-Channels) for a description of each of these channels and information on some other available community-driven channels.
 
 ## Trademarks
 
